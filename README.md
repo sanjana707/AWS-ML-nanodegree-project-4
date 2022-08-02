@@ -1,1 +1,1 @@
-# AWS-ML-nanodegree-project-4
+# Udacity's AWS ML nanodegree project 4
